@@ -4,5 +4,5 @@ Players press buttons to choose rock, paper, or scissors, and the game compares 
 The whole file package created for the project is uploaded as: 
 "file_package_for_upload.zip"
 
-Also you can watch a short video of part of the game at: 
+You can also watch a short video of part of the game at: 
 "https://youtu.be/2dr-xFhZgp0"
